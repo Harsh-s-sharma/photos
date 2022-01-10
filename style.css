@@ -87,6 +87,11 @@ p {
 img {
   width: 100%;
   height: auto; }
+  
+  video{
+    width: 100%;
+    height: auto; }
+  
 
 ul {
   margin: 0;
