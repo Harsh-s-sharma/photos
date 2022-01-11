@@ -773,7 +773,7 @@ input:required {
   .single-instagram-item img {
 /**/
     box-shadow: -1px -9px 78px 13px #000;
-    outline: 6px solid #ffffff;
+    border: 10px ridge #ffffff;
     /**/
     width: 100%;
     -webkit-transition-duration: 1500ms;
