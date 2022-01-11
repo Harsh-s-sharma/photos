@@ -760,11 +760,12 @@ input:required {
 /* :: 10.0 Follow CSS */
 .single-instagram-item {
   position: relative;
+  border: 11px inset #000000;
   z-index: 1;
   overflow: hidden;
-  -webkit-transition-duration: 500ms;
-  -o-transition-duration: 500ms;
-  transition-duration: 500ms; }
+  -webkit-transition-duration: 600ms;
+  -o-transition-duration: 600ms;
+  transition-duration: 600ms; }
   .single-instagram-item img {
     width: 100%;
     -webkit-transition-duration: 1500ms;
