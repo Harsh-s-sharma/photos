@@ -90,8 +90,15 @@ img {
   
   video{
     width: 100%;
-    height: auto; }
-  
+    height: auto; 
+    box-shadow: 21px 33px 31px -13px rgb(0 0 0);
+    margin-bottom: auto;
+  }
+  .container{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+
+  }
 
 ul {
   margin: 0;
@@ -762,7 +769,7 @@ input:required {
 .single-instagram-item {
   position: relative;
  /**/
-  outline: 6px solid #ffffff;
+  outline: 10px solid #ffffff;
   box-shadow: -1px -9px 78px 13px #000;
   /**/
   z-index: 1;
