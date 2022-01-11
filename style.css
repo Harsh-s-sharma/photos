@@ -377,6 +377,7 @@ input:required {
     font-size: 36px;
     text-transform: capitalize;
     margin-bottom: 5px;
+    margin-top: 30px;
     display: block;
     line-height: 1.2; }
     @media only screen and (max-width: 767px) {
