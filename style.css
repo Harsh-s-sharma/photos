@@ -761,13 +761,20 @@ input:required {
 /* :: 10.0 Follow CSS */
 .single-instagram-item {
   position: relative;
-  border: 11px inset #000000;
+ /**/
+  outline: 6px solid #ffffff;
+  box-shadow: -1px -9px 78px 13px #000;
+  /**/
   z-index: 1;
   overflow: hidden;
   -webkit-transition-duration: 600ms;
   -o-transition-duration: 600ms;
   transition-duration: 600ms; }
   .single-instagram-item img {
+/**/
+    box-shadow: -1px -9px 78px 13px #000;
+    outline: 6px solid #ffffff;
+    /**/
     width: 100%;
     -webkit-transition-duration: 1500ms;
     -o-transition-duration: 1500ms;
